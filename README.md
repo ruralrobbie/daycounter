@@ -24,7 +24,7 @@ It counts **upward from a start date/time**, displays everything in a dashboard,
 ## 🖼️ Example Use Cases
 
 - “Days since I quit smoking”
-- “Days since we started dating”
+- “Days since we married”
 - “Days since I joined this company”
 - “Days since I started this project”
 - “Days since last incident” 😅
