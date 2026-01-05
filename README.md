@@ -45,3 +45,13 @@ It counts **upward from a start date/time**, displays everything in a dashboard,
 ```bash
 sudo apt-get update
 sudo apt-get install -y python3 python3-tk libnotify-bin
+```
+### Data
+Data is stored in /home/user/.config/daycounter_app/
+
+### How To
+Download this file or make an empty file called daycounter_app.py and copy-paste the code here into it. Save it. 
+Open terminal in the same location as your .py file above. Run:
+```bash
+python3 daycounter_app.py 
+```
