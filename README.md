@@ -5,6 +5,8 @@
 It counts **upward from a start date/time**, displays everything in a dashboard, and sends desktop notifications when you hit meaningful milestones.
 
 ---
+![counter](counter.png)
+---
 
 ## ✨ Features
 
